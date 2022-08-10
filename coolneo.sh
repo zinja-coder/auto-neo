@@ -17,5 +17,5 @@ for distro in ${myarray[@]}; do
 			;;
 	esac
 	echo "${bold} **$distro**     **$distro**     **$distro**     **$distro** "
-	sleep 1.4
+	sleep 2
 done
